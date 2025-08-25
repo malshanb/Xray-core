@@ -106,6 +106,7 @@
   - [AnyPortal](https://github.com/AnyPortal/AnyPortal)
 - Linux
   - [v2rayA](https://github.com/v2rayA/v2rayA)
+  - [v2rayN](https://github.com/2dust/v2rayN)
   - [Furious](https://github.com/LorenEteval/Furious)
   - [GorzRay](https://github.com/ketetefid/GorzRay)
   - [GoXRay](https://github.com/goxray/desktop)
